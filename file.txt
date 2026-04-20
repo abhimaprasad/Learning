@@ -1,3 +1,7 @@
 Initial content
 Feature1 change
+
 Main branch change
+=======
+Feature2 change
+feature2
